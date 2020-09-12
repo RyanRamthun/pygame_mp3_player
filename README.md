@@ -1,6 +1,6 @@
 # MP3 Player
 A Simple MP3 Player using TKinter and PyGame.
-#Info
+# Info
 Contains: 
 - Back, forward, play, pause and stop buttons.
 - Add and remmove buttons for a listbox.
